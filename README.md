@@ -1,4 +1,4 @@
-# 🐍 SnakeCoin - Mini Blockchain in Python  
+# Mini Blockchain in Python  
 
 ## 📌 Description  
 This project is a basic implementation of a blockchain in Python. It was created to better understand **fundamentals** such as:  
