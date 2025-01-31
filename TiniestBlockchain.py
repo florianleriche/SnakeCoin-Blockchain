@@ -1,5 +1,5 @@
 # --------------------------------------------------------------
-#  Project :    SnakeCoin Blockchain
+#  Project :    Tiniest Blockchain
 #  Author  :    Floks
 #  Description :
 #      A simple blockchain implementation in Python 3.
